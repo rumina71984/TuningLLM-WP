@@ -1,0 +1,202 @@
+{
+    "0": {
+        "question": "1. What is WordPress?",
+        "answer": "WordPress is a popular content management system (CMS) that you can use to power your website on your own hosting plan. WordPress makes creating a blog, landing page, online store, forum or other website possible for users around the world. Confused about the differences between the two versions of WordPress? Have a look at this complete guide onWordPress.com vs WordPress.organd why we think WordPress.org is the better choice."
+    },
+    "1": {
+        "question": "2. Is WordPress free?",
+        "answer": "WordPress itself is a free, open-source web software but to use it you will need to invest in a web hosting plan. You can find hosting for as little as $1 per month on a shared hosting plan, but we recommend spending a bit more on a managed WordPress hosting plan to make setting up and maintaining your website easy."
+    },
+    "2": {
+        "question": "3. Is WordPress available in my language?",
+        "answer": "Maybe! Currently there are 169 locale WordPress translations available, with 10 of them at 100% up to date. Just visit theWordPress Polyglotspage to check for your language or to even contribute to the translation process."
+    },
+    "3": {
+        "question": "4. Do I need to know how to code to use WordPress?",
+        "answer": "Absolutely not! Most WordPress users are not developers since there’s no need to learn complicated CSS or PHP when there are plenty of feature rich themes and plugins to make changing your website easier. Once you’ve decided to use WordPress it’s easy to get started. Just install WordPress then add a theme and even a few plugins to begin building out your website."
+    },
+    "4": {
+        "question": "5. How do I install WordPress?",
+        "answer": "WordPress can be installed manually using their5-minute installation process, but most hosting companies make this much easier. Most shared hosting plans feature 1-click installation from your main account page or cPanel. But if you choose a managed WordPress host like WP Engine, Flywheel or Kinsta you don’t have to do anything at all – WordPress is already pre-installed for you."
+    },
+    "5": {
+        "question": "6. Can I install WordPress on my computer?",
+        "answer": "Yes you can! With WordPress you have the option to install it locally (on your computer) on almost any operating system. Depending on your skill level you can use a third party software like Desktop Server or Local by Flywheel, or manually install WordPress using MAMP, WAMP or LAMP."
+    },
+    "6": {
+        "question": "7. How do I update WordPress?",
+        "answer": "Updates are easy, as you’ll see them in your WordPress dashboard. To install an update click on the refresh/update icon or navigate toDashboard > Updatesand click the button to“Install Now.”You should see a confirmation screen welcoming you to the latest version of WordPress once installation is complete."
+    },
+    "7": {
+        "question": "8. What version of WordPress am I using?",
+        "answer": "Not sure which version of WordPress your website is running on? Just log into your WordPress site and at the bottom right corner of your dashboard you should see your current version number."
+    },
+    "8": {
+        "question": "9. Can I import my posts from another blog or blogging platform?",
+        "answer": "Yes – you can export content from your old blog to then import on your new WordPress blog. For full instructions based on your old blog platform checkout the official WordPress guide forimporting content."
+    },
+    "9": {
+        "question": "10. How do I change the style of my WordPress website?",
+        "answer": "The easiest way to change the look of your WordPress website is with a new theme. AWordPress themeis like a style skin for your website. Your theme will give your website a unique look, and depending on what’s included in the theme it may also add features for customizations like colors, fonts, menus, widgets, pages, post types, post formats and much more."
+    },
+    "10": {
+        "question": "11. How do I install a WordPress theme?",
+        "answer": "To install a new theme log into your WordPress website and navigate toAppearance > Themes > Add New. From here you can either browse free themes that are available via WordPress.org or you can click on the“Upload Theme”button to upload the zip file for a theme you’ve downloaded or purchased elsewhere."
+    },
+    "11": {
+        "question": "12. I’m getting an error when I try to install my WordPress theme – what do I do?",
+        "answer": "There are a fewcommon errorswhen installing a WordPress theme, but the most common is “Missing Stylesheet.” This means you tried to install the wrong file or folder. Your best bet is to double check that you’re uploading the installable theme zip file (it should not be an open folder or the all files & documentation zip). Another common error is a white screen when you attempt to install a new theme. This often means you need to increase your server memory limit. Some hosting companies have an option in the main admin or cPanel, but you can always contact your hosting company’s support team for help."
+    },
+    "12": {
+        "question": "13. How do I add new features to WordPress?",
+        "answer": "You can add a variety of features and functionality to you WordPress site with plugins. AWordPress pluginis essentially an add-on for your website. Plugins typically add new features or functionality to your WordPress website with little effort on your part. Just install and configure the plugin settings."
+    },
+    "13": {
+        "question": "14. How do I install a WordPress plugin?",
+        "answer": "Installing a plugin is very easy. From your WordPress dashboard go toPlugins > Add New. From here you can use the search to locate a free plugin from WordPress.org to install or you can click the “Upload Plugin” button to upload the zip file for a plugin you’ve purchased or downloaded from a third party. Now that you have WordPress installed and ready to go let’s cover the essential basic facts you should know about WordPress."
+    },
+    "14": {
+        "question": "15. How do I change my logo?",
+        "answer": "To upload a new logo log into WordPress and navigate toAppearance > Customize. Depending on your WordPress theme you may see a “branding” or a “header” section and within there you should see an option to upload a custom logo. Alternatively, if your theme uses a custom theme panel instead of the WordPress customizer simply select your theme panel from the main dashboard, locate the branding/header section and you should find an option for your logo."
+    },
+    "15": {
+        "question": "16. How do I edit my WordPress menu?",
+        "answer": "YourWordPress menu(or navigation) should include links to key pages or posts on your website. From the WordPress Dashboard go toAppearance > Menus. From here you can create, edit and assign your menus."
+    },
+    "16": {
+        "question": "17. How can I edit my sidebar?",
+        "answer": "WordPress uses widgets for the content displayed in the sidebar. To change your widgets open you dashboard and go toAppearance > Widgets. From here you can drag & drop to add, remove or reorder your widgets as well as use the individual widget options to customize the look of your sidebar. Based on your theme, you may also be able to find more sidebar customization options underAppearance > Customize > Sidebarfor colors, sidebar widths, etc."
+    },
+    "17": {
+        "question": "18. How do I change my footer?",
+        "answer": "WordPress footers like sidebars utilize widgets (unless your theme includes a custom or alternative footer). Simply go toAppearance > Widgetsto make changes. And just like sidebars, if your theme includes custom options for footer columns, styling, copyright and more you’ll likely find them underAppearance > Customize > Footeror within a custom theme panel."
+    },
+    "18": {
+        "question": "19. How do I change my password?",
+        "answer": "If you are already logged into your WordPress account, click on your username in the admin tool bar at top right corner of the screen (if your admin bar is disable, then simply go toUsers > Your Usernamevia the dashboard). Scroll to the bottom of the screen and click the option to reset your password. Write down your password or add it to your login app (such as 1Pass) then save. If you’re locked out of your account go to your login page (usually at yourwebsite.url/wp-admin), click on the “Lost your password?” link and following the instructions to reset your password via email. And if for some reason neither of those methods work, you canrecover your password manuallyvia phpMyAdmin or mySQL (but we only recommend this if you are comfortable with coding). Once you have your website ready you can start adding content. WordPress makes adding posts and pages easy, so there’s not need to feel intimidated. But if you do have a question, perhaps these Q&As will help when youcreate your first WordPress post."
+    },
+    "19": {
+        "question": "20. How to I create a new post?",
+        "answer": "To create a new WordPress post first log into your WordPress installation then go toPosts > Add New. From here you can add your post title, content, excerpt and more."
+    },
+    "20": {
+        "question": "21. What is a post format?",
+        "answer": "A post format is a style for your blog post that is typically based around the media/content in the post (image, gallery, video, quote, etc). This option can be found when you create a blog post on the right side of the screen in the “Format” meta box. Learn more in ourpost formats guide."
+    },
+    "21": {
+        "question": "22. How to I add a featured image?",
+        "answer": "When working on a post, click the link to “Set featured image” in the “Featured Image” meta box. This will open your media library. Either select an image or upload a new one and save. Typically your image will be displayed using the image’s default dimensions, but depending on your theme there may be additional cropping (which cuts the image based on the height/width of the theme design) or display (stretch, cover, etc) options. Reference the documentation for your theme to locate these settings, though they’re often in the Customizer or a Theme Panel."
+    },
+    "22": {
+        "question": "23. Where do I select a category and add tags to my post?",
+        "answer": "To choose a category and add tags to your post, use the meta boxes to the right of your content when creating a post. You can choose from existing categories and most used tags, or you can create new ones."
+    },
+    "23": {
+        "question": "24. How do I insert videos (or audio) into my posts?",
+        "answer": "There are multiple ways to add video or audio files to your WordPress posts. You first option is to simply paste the link within your post content if the media is on the list ofsupported oEmbedoptions (which includes YouTube, Vimeo, Soundcloud, and many more). Another option is if your WordPress theme includes built-in “Post Options” for you to add in video or audio as featured media (in stead of a featured image). If this option is available on your posts simply paste the link to your media, or upload your own mp3 or video file."
+    },
+    "24": {
+        "question": "25. How do I add an image gallery to my post?",
+        "answer": "To add an image gallery you can use the built-in WordPress gallery option. Simply click the “Add Media” button at the top of your post content and select the “Create Gallery” option. Then just select the photos you’d like to use and click the button to “Create new gallery.” Before you finish and insert it though be sure to check that number of columns and where the images link to (if you link to media file for an image lightbox, attachment page if you want to open the image in a new tab or custom URL). A second option is to use any image gallery or media options included in your theme. Some themes will include a gallery post format, and you will see an “image Gallery” meta box beneath your content when creating a post. Simply use this option for “Add Images” to select and insert the images you want to use in your gallery. WordPress pages are not the same as posts. Instead pages are used for important content that you want to feature on your website such as an about page, contact form and your latest blog posts."
+    },
+    "25": {
+        "question": "26. How do I create a new page?",
+        "answer": "When you log into your WordPress website use the dashboard menu to navigate toPages > Add New. From here you can give your page a name, add content, media, insert shortcodes or even use a page builder to create something custom."
+    },
+    "26": {
+        "question": "27. What is a page template (and what is it for)?",
+        "answer": "A page template applies custom styling to a page. Depending on the theme you use you may have page templates for your homepage, full-width page, blog, shop, etc. To select a page template just make a selection from the dropdown in the “Page Attributes” meta box."
+    },
+    "27": {
+        "question": "28. How do I set my homepage?",
+        "answer": "To set your homepage go toSettings > Reading.You can either leave the default (which is “Your latest posts”) or select the “Static page” option and set your front page to the page you’ve created as your homepage, and add a posts page if you have one. If you’d like to learn more about your homepage checkout this post onhow to set and edit your homepage."
+    },
+    "28": {
+        "question": "29. How do I create a contact page?",
+        "answer": "WordPress does not include a built-in contact form, but you can easily add one using a plugin. We recommendContact Form 7(free) orGravity Forms(premium). Both allow you to create a form, customize the options and then insert it into any post or page using the shortcode (see the Contact Form 7 example above). WordPress is extremely flexible and easy to tweak to fit your own personal style. Here are pointers on how to quickly locate or add customization options for your WordPress website."
+    },
+    "29": {
+        "question": "30. Can I use Google fonts on my WordPress website?",
+        "answer": "Of course! Many premium themes include built-in Google Fonts integration so all you have to do is locate the font options either underAppearance > Customize > Fonts/Typographyor within the Theme Panel under a typography section. If your theme does not include this features you can always install a third party plugin."
+    },
+    "30": {
+        "question": "31. Can I customize my theme colors?",
+        "answer": "Yes! There are three ways to customize your colors and styling."
+    },
+    "31": {
+        "question": "32. How can I customize my page layouts?",
+        "answer": "If you want to change your page or post layouts the easiest option is to use aWordPress page builder. These plugins include easy to use drag & drop builders so you can create custom pages, posts and even custom post types (such as staff or store pages). You can preview this functionality in ourWPBakery Visual Composer page builder guide. A second option is to create a child theme and make manual changes to the theme. It’s extremely important in this circumstance that you remember to use a child theme, otherwise all of your edits will be lost when you update the theme (it’s also important for security and theme functionality that you always update your theme – so no ignoring updates!). SEO is a huge part of building a successful website, but it can be confusing at first. Here are some helpful tips to get you pointed in the right direction!"
+    },
+    "32": {
+        "question": "33. What is SEO?",
+        "answer": "SEO is short for Search Engine Optimization. This effects how you rank in search results on search engines such as Google, Bing and Yahoo. There are many factors that SEO takes into account including content quality, backlinks, structured data, sitemaps and more."
+    },
+    "33": {
+        "question": "34. Is WordPress SEO friendly?",
+        "answer": "WordPress is SEO friendly but it will not do all the work for you. WordPress is setup to make it easy for you to manage and improve your SEO but just moving your blog to WordPress likely won’t change your search engine rankings."
+    },
+    "34": {
+        "question": "35. How can I improve my SEO?",
+        "answer": "One of the easiest ways to improve your SEO is with a WordPress plugin. We recommend usingYoast SEO, which adds options for: Also ready up on awesome SEO tips on reputable blogs such asMoz,Yoast,ahrefs,Backlinkoor even WPExplorer’sWordPress SEO tipson the blog. Website speed is a huge concern for any webmaster, no matter which platform you use to run your website. But with WordPress there are plenty of ways you can optimize and speed up your website in a jiffy."
+    },
+    "35": {
+        "question": "36. How can I speed up my WordPress website?",
+        "answer": "There are lots of ways you can optimize and potentiallyspeed up WordPresson your website. Here are a few ways you can improve your site speed today:"
+    },
+    "36": {
+        "question": "37. What is WordPress caching?",
+        "answer": "WordPress cachingdynamically saves and serves an HTML version of your website for your visitors. This puts less of a strain on your server resources, limits database lookups and can greatly speed up the time it takes for your pages to render."
+    },
+    "37": {
+        "question": "38. Do I need to use a caching plugin?",
+        "answer": "You don’t have to use a caching plugin, but it can help speed up your website. In fact we’d only recommend skipping a caching plugin if you already have caching built into your hosting. Otherwise it can’t hurt to giveWP Super CacheorW3 Total Cachea try (two of the most popular free caching plugins for WordPress)."
+    },
+    "38": {
+        "question": "39. What is a CDN?",
+        "answer": "CDN stands for Content Delivery Network. The CDN stores copies of your websitecontent(specifically images, Javascript and CSS files) anddeliversit to your readers using anetworkof servers around the world. This way when readers visit your website data is loaded from the server closest to them. CDNs also tend to have very fast response and loading times with minimal downtime. If you want to test a CDN to see if it would help your web speeds, checkout our roundup of thebest free CDN servicesfor WordPress. It’s a great place to start without having to invest a chunk of change up front."
+    },
+    "39": {
+        "question": "40. What is the difference between a caching plugin and a CDN? And do I need both?",
+        "answer": "A caching plugin saves and HTML version of your website to reduce database requests and speed up your site. A CDN stores and serves your website assets (images, CSS, Javascript) to increase site speed and lower bandwidth usage. It’s not required to use either, but for the fastest website possible you should use both."
+    },
+    "40": {
+        "question": "41. Will it slow down my website if I install too many plugins?",
+        "answer": "We see this question a LOT and the answer ismaybe. The issue typically isn’t with the number of plugins you install but rather the size, function and quality of the plugins. Large plugins:Everything but the kitchen sink plugins typically include features for just about everything which makes plugin management easy for you as the user, but it could slow your website down as the more a single plugin does then the more resources it will require. Plugin conflicts:The top issues we see related to plugins are incompatibility or duplicate features. Some plugins simply don’t work when installed on the same website (for example, WooCommerce does not work with W3 Total Cache). Similarly, you really should avoid duplicate functionality. You only need one slider plugin, one SEO plugin, one security plugin, etc. Poor quality:You may come across a plugin that sounds great but once installed slows or brings your website down to a halt completely. Unfortunately there are a lot of poorly coded plugins floating around the web, which is why we always recommend using plugins for reputable sources (such asWordPress.orgorCodeCanyon). WordPress is used by more than 1 in 4 websites, so it only makes sense that it can become a target from time to time. But this shouldn’t be anything for you to worry about if you follow a few basic tips to keep your WOrdPress website secure."
+    },
+    "41": {
+        "question": "42. How can I make sure my website is secure?",
+        "answer": "The best way to ensure your website remains safe is to follow a few simple steps:"
+    },
+    "42": {
+        "question": "43. Is there an easy way to manage my WordPress security?",
+        "answer": "If you don’t want to worry about your web security we suggest choosing a good managed hosting plan that includes daily backups, firewalls and malware scanning to keep your server safe. And if you want to add an extra layer, consider a security plugin such asSolid SecurityorWordfence."
+    },
+    "43": {
+        "question": "44. What is spam?",
+        "answer": "Spam is the off topic, irrelevant, inappropriate and unwanted comments, pings and even social media tags you’ll receive at some point when running a website. Usually these are bots and not real people leaving comments on your website."
+    },
+    "44": {
+        "question": "45. What can I do about spam?",
+        "answer": "One of the best solutions to control spam on a WordPress website is with theAkismetplugin by Automattic (the creators of WordPress). Akismet helps to filter, destroy and prevent spam using a variety of built-in features and settings. If you’re using JetPack’s comment module then you’re in luck – all comments automatically get run through Akismet’s filters. Rather manage your website without the help of a plugin? You can enable stricter commenting rules via the dashboard underSettings > Discussion. By enabling core WordPress options to only allowed registered/logged-in users to comment and requiring manual approval for all comments you can prevent spam but this is time consuming and may discourage users from commenting. Having a website is great for exposure, but did you know that you can also monetize your website so that it pays for itself (and then some)? Here are some of the most common questions"
+    },
+    "45": {
+        "question": "46. Can I make money with WordPress?",
+        "answer": "Yes you can! There are a ton of ways to make money with WordPress – it’s our whole business so we’re living proof."
+    },
+    "46": {
+        "question": "47. What are some easy ways to make money with WordPress?",
+        "answer": "The easiest way to monetize your website is to take advantage of your website traffic by offering advertising spots and recommending affiliate products, or by starting your own store. For more ideas on how to turn a profit with your website have a look at this guide onhow to make money with WordPress."
+    },
+    "47": {
+        "question": "48. Are there any special rules I need to follow as an affiliate?",
+        "answer": "If you are going to use affiliate links on your website it is extremely important that you follow the rules of the FTC (Federal Trade Commission). These are very important and include strict policies coving disclosure of use of affiliate links, sponsored posts (including on social media), giveaway guidelines, honest product reviews and more. Visit theFTCwebsite for complete up to date rules and regulations."
+    },
+    "48": {
+        "question": "49. How do I start my own store with WordPress?",
+        "answer": "Tobuild a store with WordPressyou simply need to install an e-commerce plugin. Popular options are WooCommerce and Easy Digital Downloads – both of which are great choices for new web-entrepreneurs."
+    },
+    "49": {
+        "question": "50. What are the requirements for an e-commerce store?",
+        "answer": "If you plan on starting your own online store just remember thatHTTPSis required to collect customer data, so be sure to purchase your SSL certificate before launching your website (otherwise you’ll have to redirect HTTP to HTTPS and it can become complicated). You’ll also want to consider creating pages for yourSite Use & Privacy Termsas well aRefund Policy. This is of course in addition to filing paperwork required in your locale (country, state, province, etc) to sell products and/or services."
+    }
+}
